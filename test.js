@@ -1,5 +1,5 @@
 var myVar;
-var myNum;
+// var myNum;
 
 function myFunc() {
 	myVar = 'Hello World';
@@ -9,4 +9,4 @@ function myFunc() {
 
 myFunc();
 
-myNum = 5;
+// myNum = 5;
