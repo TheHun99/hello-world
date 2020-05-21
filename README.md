@@ -1,2 +1,4 @@
 # hello-world
-test repo
+This is just a test, nothing else.
+
+I have no idea how to write code in any way, shape or form LOL
