@@ -7,7 +7,7 @@ function myFunc() {
 }
 
 function myFun2() {
-	myVar2 = 'Kocsoooog'
+	myVar2 = 'Jol van, na...'
 
 	console.log(myVar2)
 }
