@@ -1,5 +1,4 @@
 var myVar;
-// var myNum;
 
 function myFunc() {
 	myVar = 'Hello World';
@@ -7,6 +6,11 @@ function myFunc() {
 	console.log(myVar);
 }
 
-myFunc();
+function myFun2() {
+	myVar2 = 'Kocsoooog'
 
-// myNum = 5;
+	console.log(myVar2)
+}
+
+myFunc();
+myFun2();
