@@ -1,11 +1,12 @@
-var myVar = 5;
-
-console.log(myVar);
+var myVar;
+var myNum;
 
 function myFunc() {
-	myVar += 2;
-	
+	myVar = 'Hello World';
+
 	console.log(myVar);
 }
 
 myFunc();
+
+myNum = 5;
